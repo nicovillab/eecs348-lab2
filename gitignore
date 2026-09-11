@@ -1,0 +1,9 @@
+# Object files
+*.o
+
+# Compiled executable
+oddeven
+
+# Optional editor/OS junk
+*~
+.DS_Store
